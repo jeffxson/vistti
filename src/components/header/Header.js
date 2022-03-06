@@ -114,7 +114,7 @@ class Header extends React.Component {
               </NavLink>
               <Link
                 className='single_item'
-                to='campaign'
+                to='/stories'
                 spy={true}
                 smooth={true}
                 hashSpy={true}
@@ -194,7 +194,7 @@ class Header extends React.Component {
               </Link>
   
               <NavLink
-                to='/faq'
+                to='/stories'
                 className='single_item'
                 onClick={this.onClickBackdrop}
               >
@@ -202,7 +202,7 @@ class Header extends React.Component {
               </NavLink>
   
               <NavLink
-                to='/buy'
+                to='/stories'
                 className='single_item'
                 onClick={this.onClickBackdrop}
               >
@@ -210,7 +210,7 @@ class Header extends React.Component {
               </NavLink>
   
               <NavLink
-                to='/hierachy'
+                to='/stories'
                 className='single_item'
                 onClick={this.onClickBackdrop}
               >

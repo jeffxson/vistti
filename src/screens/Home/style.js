@@ -122,7 +122,7 @@ font-size: 38px;
      font-style: normal;
     font-weight: bold;
     font-size: 38px;
-    line-height: 50px;
+    line-height: 5g0px;
     /* or 125% */
     letter-spacing: -0.02em;
     
