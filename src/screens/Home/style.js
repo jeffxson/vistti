@@ -81,7 +81,7 @@ width: 586px;
 top: 258px;
 font-style: normal;
 font-weight: bold;
-font-size: 48px;
+font-size: 38px;
 
 
 
@@ -121,8 +121,8 @@ font-size: 48px;
     
      font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 60px;
+    font-size: 38px;
+    line-height: 50px;
     /* or 125% */
     letter-spacing: -0.02em;
     
@@ -141,7 +141,7 @@ top: 362px;;
 
  font-style: normal;
 font-weight: normal;
-font-size: 18px;
+font-size: 15px;
 line-height: 31px;
 /* or 172% */
 letter-spacing: 0.02em;
@@ -161,7 +161,7 @@ top:312px;;
 
  font-style: normal;
 font-weight: normal;
-font-size: 18px;
+font-size: 14px;
 line-height: 31px;
 /* or 172% */
 letter-spacing: 0.02em;

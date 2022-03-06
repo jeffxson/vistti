@@ -43,7 +43,7 @@ const Home = () => {
            <div className='words'>
                <div className='big-word'> Amazing <br></br>Experiences from Our <br></br> Wonderful Customers</div>
             <div className='small-word'>
-                 Here is what customers and vendors are saying about us, you can share your stories with us too.
+                 Here is what customers and vendors are saying about us, <br></br>you can share your stories with us too.
 
             </div>
            </div>
@@ -157,7 +157,12 @@ Share your own story!
            <div className='words'>
                <div className='big-word'>Josiah’s Experience    </div>
             <div className='small-word1'>
-            I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back! I had the best experience shopping with vasiti. Usability of the website was great, very good customer service, an all round great experience. I would definately be coming back!
+            I had the best experience shopping with vasiti.<br></br>
+             Usability of the website was great, very good customer <br></br> 
+             service, an all round great experience. I would<br></br> 
+             definately be coming back! I had the best experience <br></br>
+             shopping with  vasiti. Usability of
+              the website was <br></br> great, very good customer service, an all round great experience. <br></br> I would definately be coming back!
             </div>
            </div>
          <div className='picback'>
