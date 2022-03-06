@@ -98,31 +98,34 @@ of our community 🎉 </h1>
           </ul>
         </div>
         <div className='flexer'>
-          <h3>Join Our community</h3>
-          <ul className='kilimanjaro_links'>
-          
-            <li>
-            <a href='/'>
-                 <i class="fa-brands fa-facebook fa-4x"></i>
+         
+         
+          <div className='conta'>
+            <h3>Join Our community</h3>
+            <ul className='kilimanjaro_social_links'>
+              <li>
+                <a href='/' target='_blank' rel='noopener noreferrer'>
+                  <i className='fab fa-facebook'></i> Facebook
                 </a>
-            </li>
-            <li>
-            <a href='/' target='_blank' rel='noopener noreferrer'>
-                  <i className='fab fa-facebook'></i> 
+              </li>
+              <li>
+                <a href='/' target='_blank' rel='noopener noreferrer'>
+                  <i className='fab fa-twitter'></i> Twitter
                 </a>
-            </li>
-            <li>
-            <a href='/' target='_blank' rel='noopener noreferrer'>
-                  <i className='fab fa-facebook'></i> 
+              </li>
+              <li>
+                <a href='/' target='_blank' rel='noopener noreferrer'>
+                  <i className='fab fa-pinterest'></i> Pinterest
                 </a>
-            </li>
-            <li>
-            <a href='/' target='_blank' rel='noopener noreferrer'>
-                  <i className='fab fa-facebook'></i> 
+              </li>
+              <li>
+                <a href='/' target='_blank' rel='noopener noreferrer'>
+                  <i className='fab fa-linkedin'></i> Linkedin
                 </a>
-            </li>
-           
-          </ul>
+              </li>
+            </ul>
+             <h3>Email Newsletter</h3>
+          </div>
         </div>
       </div>
       

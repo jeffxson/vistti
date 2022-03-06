@@ -70,14 +70,14 @@ padding-bottom: 50px;
     position: relative;
    
       display: flex;    
-       justify-content: space-evenly;
+       justify-content: space-between;
 
      } 
   .first1 {
     position: relative;
    background:#FFF8F5;
       display: flex;    
-       justify-content: space-evenly;
+       justify-content: space-between;
 
      } 
   }

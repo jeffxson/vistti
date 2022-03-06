@@ -304,7 +304,7 @@ padding-top:40px;
   ul {
     margin: 0;
     padding: 0;
-  }
+  } 
   .kilimanjaro_links a { 
     display: block;
     font-size: 13px;
@@ -388,5 +388,22 @@ padding-top:40px;
     font-size: 12px;
     margin-bottom: 0px;
     padding-top: 40px;
+  }
+  
+  .kilimanjaro_social_links a:hover {
+    color: orange;
+  }
+  .kilimanjaro_social_links {
+    margin: 0px;
+  }
+  .kilimanjaro_social_links a {
+    border: 1px solid #333;
+    border-radius: 6px;
+    color: #888;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 2px;
+    padding: 7px 12px;
   }
 `
